@@ -1,4 +1,4 @@
-img.me {
+img.clear {
     border: none !important;
     box-shadow: none !important;
     background: none  !important;
@@ -6,7 +6,8 @@ img.me {
 }
 
 .fit > img {
-    width: 250px;
+    max-width: 200px !important;
+    max-height: 200px !important;
 }
 
 .twitter {
