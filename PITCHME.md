@@ -3,9 +3,9 @@
 <img class="clear glow" src="assets/me.png" height="550" />
 
 @snap[south-west]
-[@color[grey](@fab[github]) github.com/IEvangelist](https://github.com/IEvangelist)
-<br />
 [@css[twitter](@fa[twitter]) @davidpine7](https://twitter.com/davidpine7)
+<br/ >
+[@color[grey](@fab[github]) github.com/IEvangelist](https://github.com/IEvangelist)
 @snapend
 
 @snap[west clear fit]
@@ -19,9 +19,9 @@
 @snapend
 
 @snap[south-east]
-[docs.microsoft.com @color[blue](@fab[microsoft])](https://docs.microsoft.com/azure)
-<br />
 [davidpine.net @color[red](@fa[globe])](https://davidpine.net/)
+<br />
+[docs.microsoft.com @color[#008AD7](@fab[microsoft])](https://docs.microsoft.com/azure)
 @snapend
 
 @snap[east clear fit]
