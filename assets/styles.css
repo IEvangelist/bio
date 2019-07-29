@@ -27,3 +27,7 @@ img.glow {
 .twitter {
     color: #0084b4;
 }
+
+div.south-east > a:nth-child(1) {
+    right: -12px;
+}

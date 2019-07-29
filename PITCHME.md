@@ -5,7 +5,7 @@
 @snap[south-west]
 [@css[twitter](@fa[twitter]) @davidpine7](https://twitter.com/davidpine7)
 <br/ >
-[@color[grey](@fab[github]) github.com/IEvangelist](https://github.com/IEvangelist)
+[@color[#f5f5f5](@fab[github]) github.com/IEvangelist](https://github.com/IEvangelist)
 @snapend
 
 @snap[west clear fit]
