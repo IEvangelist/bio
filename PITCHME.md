@@ -3,6 +3,8 @@
 <img class="clear glow" src="assets/me.png" height="550" />
 
 @snap[south-west]
+[@color[grey](@fab[github]) github.com/IEvangelist](https://github.com/IEvangelist)
+<br />
 [@css[twitter](@fa[twitter]) @davidpine7](https://twitter.com/davidpine7)
 @snapend
 
@@ -17,6 +19,8 @@
 @snapend
 
 @snap[south-east]
+[docs.microsoft.com @color[blue](@fab[microsoft])](https://docs.microsoft.com/azure)
+<br />
 [davidpine.net @color[red](@fa[globe])](https://davidpine.net/)
 @snapend
 
