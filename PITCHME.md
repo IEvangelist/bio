@@ -31,5 +31,3 @@
 @snap[north-east clear fit]
     <img src="assets/gde.png" />
 @snapend
-
----
