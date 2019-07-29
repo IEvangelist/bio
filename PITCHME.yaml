@@ -1,6 +1,7 @@
 theme: night
 highlight: vs
 eager-loading : true
+background : assets/binary-strings-black.jpg
 background-opacity : 15
 transition: fade
 title: "Hi, I'm David Pine"
