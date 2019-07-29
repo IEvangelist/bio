@@ -7,7 +7,9 @@
 @snapend
 
 @snap[west clear fit]
-    <img src="assets/twilio-mark-red.png" />
+<a href="https://fallexperiment.com/creamcitycode" target="_blank">
+    <img  class="clear fit" src="assets/creamcitycode.png" />
+</a>
 @snapend
 
 @snap[north-west clear fit]
@@ -19,9 +21,7 @@
 @snapend
 
 @snap[east clear fit]
-<a href="https://fallexperiment.com/creamcitycode" target="_blank">
-    <img  class="clear fit" src="assets/creamcitycode.png" />
-</a>
+    <img src="assets/twilio-mark-red.png" />
 @snapend
 
 @snap[north-east clear fit]
