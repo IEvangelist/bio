@@ -1,6 +1,6 @@
 ---
 
-<img class="clear glow" src="assets/me.png" height="500" />
+<img class="clear glow" src="assets/me.png" height="550" />
 
 @snap[south-west]
 [@css[twitter](@fa[twitter]) @davidpine7](https://twitter.com/davidpine7)
