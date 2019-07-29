@@ -1,17 +1,17 @@
 ---
 
-<img class="clear" src="assets/me.png" height="500" />
+<img class="clear glow" src="assets/me.png" height="500" />
 
 @snap[south-west]
 [@css[twitter](@fa[twitter]) @davidpine7](https://twitter.com/davidpine7)
 @snapend
 
 @snap[west clear fit]
-![Twilio Champion](assets/twilio-mark-red.png) Champion
+    <img src="assets/twilio-mark-red.png" />
 @snapend
 
 @snap[north-west clear fit]
-![Most Valuable Professional](assets/mvp.png)
+    <img src="assets/mvp.png" />
 @snapend
 
 @snap[south-east]
@@ -25,7 +25,7 @@
 @snapend
 
 @snap[north-east clear fit]
-![Google Developer Expert](assets/gde.png)
+    <img src="assets/gde.png" />
 @snapend
 
 ---
