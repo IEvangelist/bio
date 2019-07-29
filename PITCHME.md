@@ -7,11 +7,12 @@
 @snapend
 
 @snap[west]
-Twilio Champion
+Twilio
+Champion
 @snapend
 
 @snap[north-west]
-2x Most Valuable Professional
+2x @fa[microsoft] MVP
 @snapend
 
 @snap[south-east]
@@ -19,11 +20,12 @@ Twilio Champion
 @snapend
 
 @snap[east]
-[Fall X / CCC](https://fallexperiment.com/creamcitycode)
+Fall X
+[CCC](https://fallexperiment.com/creamcitycode)
 @snapend
 
 @snap[north-east]
-Google Developer Expert
+@fa[google] Google Developer Expert
 @snapend
 
 ---
