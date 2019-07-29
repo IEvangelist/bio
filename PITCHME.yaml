@@ -1,0 +1,12 @@
+theme: night
+highlight: vs
+eager-loading : true
+background-opacity : 15
+transition: fade
+title: "Hi, I'm David Pine"
+remote-control: true
+remote-control-prevkey: 38
+remote-control-nextkey: 40
+theme-override : assets/styles.css
+published: true
+footnote : "davidpine.net   •   @davidpine7"
