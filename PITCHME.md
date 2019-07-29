@@ -19,8 +19,9 @@
 @snapend
 
 @snap[east]
-Fall X
-[CCC](https://fallexperiment.com/creamcitycode)
+<a href="https://fallexperiment.com/creamcitycode" target="_blank">
+    <img  class="clear fit" src="assets/creamcitycode.png" height="200px" />
+</a>
 @snapend
 
 @snap[north-east clear fit]
