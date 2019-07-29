@@ -18,9 +18,9 @@
 [davidpine.net @color[red](@fa[globe])](https://davidpine.net/)
 @snapend
 
-@snap[east]
+@snap[east clear fit]
 <a href="https://fallexperiment.com/creamcitycode" target="_blank">
-    <img  class="clear fit" src="assets/creamcitycode.png" height="200px" />
+    <img  class="clear fit" src="assets/creamcitycode.png" />
 </a>
 @snapend
 
