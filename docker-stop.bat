@@ -1,1 +1,1 @@
-docker --name bio
+docker stop bio
